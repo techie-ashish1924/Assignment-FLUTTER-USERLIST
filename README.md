@@ -76,7 +76,7 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 
 ## 👨‍💻 Author
 
-* Your Name
+* Ashish Sengar
 * GitHub: [@techie-ashish1924](https://github.com/techie-ashish1924)
 
 ---
