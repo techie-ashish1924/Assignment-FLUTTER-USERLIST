@@ -13,8 +13,6 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 * Pull-to-refresh to reload data
 * Error handling with messages
 * Search users by name (real-time filtering)
-* Delete/reset user list (for demo purposes)
-* Floating buttons for **fetch** and **delete**
 
 ---
 
@@ -53,7 +51,7 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 
 * [flutter_bloc](https://pub.dev/packages/flutter_bloc) — State management
 * [http](https://pub.dev/packages/http) — API calls
-* [equatable](https://pub.dev/packages/equatable) — Value comparison for states/events
+
 
 ---
 
@@ -62,7 +60,6 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 * Used **BLoC** for clear separation of UI and business logic.
 * Stored the original user list internally in the BLoC to allow real-time filtering for search.
 * Search functionality is case-insensitive and filters by **name** only.
-* The delete button (`RemoveUserListEvent`) is included for demo/testing purposes to reset the list.
 * Simple UI focusing on functionality rather than heavy design.
 
 ---
@@ -80,6 +77,6 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 ## 👨‍💻 Author
 
 * Your Name
-* GitHub: [@your-username](https://github.com/your-username)
+* GitHub: [@techie-ashish1924](https://github.com/techie-ashish1924)
 
 ---
