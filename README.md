@@ -31,8 +31,8 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<your-username>/flutter-user-app.git
-   cd flutter-user-app
+   git clone https://github.com/techie-ashish1924/Assignment-FLUTTER-USERLIST.git
+   cd Assignment-FLUTTER-USERLIST
    ```
 
 2. Get dependencies:
@@ -73,7 +73,7 @@ The app is built using **BLoC (flutter_bloc)** for state management and demonstr
 
 | Home Screen                          | Search Example                           | Detail Screen (Bonus)                    |
 | ------------------------------------ | ---------------------------------------- | ---------------------------------------- |
-| ![Home](assets/screenshots/home.png) | ![Search](assets/screenshots/search.png) | ![Detail](assets/screenshots/detail.png) |
+| ![Home](assets/screenshots/UserListing.jpeg) | ![Search](assets/screenshots/search.jpeg) | ![Detail](assets/screenshots/userdetails.jpeg) |
 
 ---
 
